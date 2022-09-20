@@ -1,0 +1,17 @@
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\bin\Release\net6.0\HackTheGalaxy.exe
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\bin\Release\net6.0\HackTheGalaxy.deps.json
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\bin\Release\net6.0\HackTheGalaxy.runtimeconfig.json
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\bin\Release\net6.0\HackTheGalaxy.dll
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\bin\Release\net6.0\HackTheGalaxy.pdb
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.csproj.AssemblyReference.cache
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.AssemblyInfoInputs.cache
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.AssemblyInfo.cs
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.dll
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\refint\HackTheGalaxy.dll
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.pdb
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.genruntimeconfig.cache
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\ref\HackTheGalaxy.dll
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\xgr\source\repos\HackTheGalaxy\HackTheGalaxy\obj\Release\net6.0\HackTheGalaxy.csproj.CopyComplete
